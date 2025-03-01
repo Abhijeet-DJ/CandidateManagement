@@ -1,2 +1,2 @@
 # CandidateManagement
-An  software for candidate management and keeping tracks of hiring
+A software for candidate management and keeping tracks of hiring
